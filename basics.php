@@ -1,6 +1,5 @@
 <?php
 $username = "leaky";
-$passwd = "Ghost@558**$";
 $host = "localhost";
 //i am a comment
 #just like python
